@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AppEngine ORM">
+    <CLASSES>
+      <root url="file:///lib/user/orm" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///lib/user/orm" recursive="false" />
+  </library>
+</component>
